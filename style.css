@@ -1,0 +1,6 @@
+.position{
+    right: 0;
+    position:absolute;
+    transform-origin: 80%;
+    transform: rotate(-90deg);
+}
